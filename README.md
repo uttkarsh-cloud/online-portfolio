@@ -1,7 +1,7 @@
 # online-portfolio
 Website
 
-It is a 3 module single page website consisting of about, work & contact page.
+It is a single module page website consisting of about, work & contact page.
 
 I have used Html, CSS & Javascript languages to build this website.
 
